@@ -1,0 +1,12 @@
+/* img{
+  width:100%;
+} */
+
+/* @import '~antd/dist/antd.css'; */
+img{
+  width:100%;
+}
+.center{
+  text-align: center;
+  margin-bottom: 20px;
+}
